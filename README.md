@@ -19,3 +19,8 @@ This project is a File Integrity Monitoring System designed to track changes in 
 The frontend fetches logs from the Flask server at regular intervals and displays them in an easy-to-understand interface, making it simple to monitor file modifications. Flask-CORS is used to handle cross-origin requests, ensuring smooth interaction between the backend and frontend. The system is optimized for both development and production environments, with Waitress available as a production-ready WSGI server.
 
 This tool is essential for maintaining data integrity, detecting unauthorized changes, and enhancing security. By combining Flask and React, it offers an efficient, user-friendly experience for real-time file monitoring.
+
+#OUTPUT:
+![Image](https://github.com/user-attachments/assets/af6a8be3-b6b7-4888-8e34-6efc93db2614)
+
+
