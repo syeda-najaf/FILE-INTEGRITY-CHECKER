@@ -21,6 +21,6 @@ The frontend fetches logs from the Flask server at regular intervals and display
 This tool is essential for maintaining data integrity, detecting unauthorized changes, and enhancing security. By combining Flask and React, it offers an efficient, user-friendly experience for real-time file monitoring.
 
 #OUTPUT:
-![Image](https://github.com/user-attachments/assets/af6a8be3-b6b7-4888-8e34-6efc93db2614)
+
 
 
